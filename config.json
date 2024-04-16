@@ -1,0 +1,40 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/flaskwebsite",
+    "prod_uri":"mysql://root:@localhost/flaskwebsite",
+    "fb_url":"https://www.facebook.com/ariyan.haque.1293/",
+    "tw_url":"https://twitter.com/AriyanHaque8",
+    "gh_url":"https://github.com/ariyan-321",
+    "blog_name":"FlaskWebsite",
+    "tag_line":"Crafting code and chasing dreams.",
+    "gmail-user":"ariyan555777@gmail.com",
+    "gmail-password":"oeqbwdsnyzninkxb",
+    "about-text":"hey I'm Ariyan I do coding.",
+    "num-of-posts":2,
+    "login_image":"login.svg",
+    "admin_user":"ariyan",
+    "admin_password": "ariyan@321",
+    "upload_location": "C:\\Users\\ariya\\OneDrive\\Pictures\\Screenshots"
+
+
+
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
